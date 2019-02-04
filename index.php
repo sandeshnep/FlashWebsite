@@ -19,8 +19,8 @@
 				<li>We don't have a post office</li>
 				<li>We don't have our own local government</li>
 			</ul>
-		</aside>		
-		
+		</aside>
+
 		<main>
 			<h2>Intro</h2>
 			<p>
@@ -28,4 +28,5 @@
 			</p>
 
 		</main>
-		<?php include "/includes/footnav.inc"?>
+
+		<?php include "includes/footnav.inc"?>

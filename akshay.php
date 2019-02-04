@@ -1,4 +1,4 @@
-<?php include "/includes/header.inc"?>
+<?php include "includes/header.inc"?>
 
 <body class="container">
 <header>
@@ -36,4 +36,4 @@
 
 
 		</main>
-<?php include "/includes/footnav.inc"?>
+<?php include "includes/footnav.inc"?>
