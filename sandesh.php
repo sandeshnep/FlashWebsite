@@ -1,19 +1,9 @@
+<?php include "/includes/header.inc"?>
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title> Rochester | Sandesh Paudel | Home </title>
-  <link rel="stylesheet" href="css/styles.css">
-  <link href="https://fonts.googleapis.com/css?family=Rajdhani|Raleway" rel="stylesheet">
-</head>
 <body class ="container">
   <header>
-    <a href="index.php">
       <h1> Sandesh Paudel </h1>
-      <img src="images/sandesh.jpg" alt="photome">
-    </a>
+      <img src="images/sandesh.jpg" alt="photome" class="elon">
   </header>
 
   <aside>
@@ -47,22 +37,5 @@
 
 
 </main>
-  <footer>
-    CSC 174: Advanced Front-end Web Design and Development
-  </footer>
 
-<nav class="menu">
-      <ul>
-        <li><a href="index.php">Index</a></li>
-        <li><a href="akshay.php">Akshay</a></li>
-        <li><a href="sandesh.php">Sandesh</a></li>
-        <li><a href="austin.php">Elon</a></li>
-      </ul>
-    </nav>
-
-
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="js/menu-highlighter.js"></script>
-  </body>
-  </html>
+<?php include "/includes/footnav.inc"?>
