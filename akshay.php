@@ -10,7 +10,7 @@
 		<header>
 	<a href="index.php"> 
 		<h1>Akshay Desai</h1>
-		<img src="./images/akshay.jpeg" alt="me">
+		<img src="/images/akshay.jpg" alt="me">
 	</a>
 </header>		<aside>
 	<ul>
@@ -45,7 +45,7 @@
 		<footer>
 	CSC174: Advanced Front-end Web Design and Development
 </footer>		
-<nav>
+<nav class="menu">
 	<ul>
 		<li><a href="index.php">Future</a></li>
 		<li><a href="akshay.php">Home</a></li>
