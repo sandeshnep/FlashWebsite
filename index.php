@@ -1,12 +1,5 @@
+	<?php include "includes/header.inc"?>
 
-<!DOCTYPE html>
-<html lang="en">
-
-	<head>
-		<meta charset="utf-8">
-		<title>Home | Akshay Desai | Lab 01 </title>
-		<link rel="stylesheet" href="css/styles.css">
-	</head>
 	<body class="container">
 		<header>
 			<h1>Welcome to the team from Hell, Michigan</h1>
