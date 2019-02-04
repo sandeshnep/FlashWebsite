@@ -12,7 +12,7 @@
   <header>
     <a href="index.php">
       <h1> Sandesh Paudel </h1>
-      <img src="images/photo.jpg" alt="photome">
+      <img src="images/sandesh.jpg" alt="photome">
     </a>
   </header>
 
