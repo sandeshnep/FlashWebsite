@@ -45,14 +45,14 @@
 		<footer>
 	CSC174: Advanced Front-end Web Design and Development
 </footer>		
-<nav>
-	<ul>
-		<li><a href="index.php">Future</a></li>
-		<li><a href="akshay.php">Home</a></li>
-		<li><a href="sandesh.php">University</a></li>
-		<li><a href="austin.php">Career</a></li>
-	</ul>
-</nav>
+<nav class="menu">
+			<ul>
+				<li><a href="index.php">Index</a></li>
+				<li><a href="akshay.php">Akshay</a></li>
+				<li><a href="sandesh.php">Sandesh</a></li>
+				<li><a href="austin.php">Elon</a></li>
+			</ul>
+		</nav>
 		<script src="http://code.jquery.com/jquery.js"></script>
 		<script src="js/menu-highlighter.js"></script>
 	</body>
