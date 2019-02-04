@@ -1,18 +1,10 @@
+<?php include "/includes/header.inc"?>
 
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>Home | Akshay Desai | Lab 01 </title>
-		<link rel="stylesheet" href="css/styles.css">
-	</head>
-	<body class="container">
-
-
+<body class="container">
 <header>
 		<h1>Akshay Desai</h1>
 		<img src="/images/akshay.jpg" alt="me" class="elon">
-</header>		
+</header>
 
 <aside>
 	<ul>
@@ -20,11 +12,11 @@
 		<li>Incoming Software Engineer</li>
 		<li>Resident Advisor</li>
 	</ul>
-</aside>		
+</aside>
 <main>
 			<h2>Intro</h2>
 			<p>
-				I am originally from Chicago, IL and moved to Philadelphia, PA during my freshman year of high school. There, I took my first computer science class that piqued my interest in the subject. This interest however developed late in high school, so I started school at the University of Rochester actually as an international relations major. I concurrently took a computer science course and significantly enjoyed it more, so I changed major to computer science and haven’t looked back. 
+				I am originally from Chicago, IL and moved to Philadelphia, PA during my freshman year of high school. There, I took my first computer science class that piqued my interest in the subject. This interest however developed late in high school, so I started school at the University of Rochester actually as an international relations major. I concurrently took a computer science course and significantly enjoyed it more, so I changed major to computer science and haven’t looked back.
 			</p>
 
 			<h2>University</h2>
@@ -44,18 +36,5 @@
 
 
 		</main>
-		<footer>
-	CSC174: Advanced Front-end Web Design and Development
-</footer>		
-<nav class="menu">
-	<ul>
-		<li><a href="index.php">Future</a></li>
-		<li><a href="akshay.php">Home</a></li>
-		<li><a href="sandesh.php">University</a></li>
-		<li><a href="austin.php">Career</a></li>
-	</ul>
-</nav>
-		<script src="http://code.jquery.com/jquery.js"></script>
-		<script src="js/menu-highlighter.js"></script>
-	</body>
-</html>
+
+<?php include "/includes/footnav.inc"?>

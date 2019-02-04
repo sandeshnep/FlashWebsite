@@ -1,13 +1,5 @@
+<?php include "/includes/header.inc"?>
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title> Rochester | Sandesh Paudel | Home </title>
-  <link rel="stylesheet" href="css/styles.css">
-  <link href="https://fonts.googleapis.com/css?family=Rajdhani|Raleway" rel="stylesheet">
-</head>
 <body class ="container">
   <header>
       <h1> Sandesh Paudel </h1>
