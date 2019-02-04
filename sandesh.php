@@ -37,22 +37,4 @@
 
 
 </main>
-  <footer>
-    CSC 174: Advanced Front-end Web Design and Development
-  </footer>
-
-<nav class="menu">
-  <ul>
-    <li><a href="index.php">Future</a></li>
-    <li><a href="akshay.php">Home</a></li>
-    <li><a href="sandesh.php">University</a></li>
-    <li><a href="austin.php">Career</a></li>
-  </ul>
-</nav>
-
-
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="js/menu-highlighter.js"></script>
-  </body>
-  </html>
+<?php include "/includes/footnav.inc"?>
