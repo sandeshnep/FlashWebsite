@@ -3,7 +3,7 @@
 <body class="container">
 <header>
 		<h1>Akshay Desai</h1>
-		<img src="/images/akshay.jpg" alt="me" class="elon">
+		<img src="images/akshay.jpg" alt="me" class="elon">
 </header>
 
 <aside>
