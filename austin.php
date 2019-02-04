@@ -6,7 +6,7 @@
 <div class="container">
 
 <header>
-	<h1>Elon Musk</h1>
+	<h1 class="elon_title">Elon Musk</h1>
 	<img src="images/elon.jpg" alt="elon" class="elon">
 </header>
 

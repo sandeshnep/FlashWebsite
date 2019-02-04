@@ -21,6 +21,15 @@ h1 {
     transform: rotate(-90deg);
     position: absolute;
     z-index: 100;
+    top: 100px;
+    left: -100px;
+    font-size: 34px;
+}
+
+.elon_title{
+    transform: rotate(-90deg);
+    position: absolute;
+    z-index: 100;
     top: 89px;
     left: -115px;
     font-size: 53px;
