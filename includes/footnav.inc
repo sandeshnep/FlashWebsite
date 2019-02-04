@@ -1,7 +1,7 @@
 
 <footer>CSC 174:Advanced Front-End Web Design and Development</footer>
 
-<nav>
+<nav class="menu">
 	<ul>
 		<li><a href="index.php">Home</a></li>
 		<li><a href="akshay.php">Akshay</a></li>
