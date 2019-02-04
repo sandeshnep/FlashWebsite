@@ -10,10 +10,8 @@
 </head>
 <body class ="container">
   <header>
-    <a href="index.php">
       <h1> Sandesh Paudel </h1>
-      <img src="images/sandesh.jpg" alt="photome">
-    </a>
+      <img src="images/sandesh.jpg" alt="photome" class="elon">
   </header>
 
   <aside>

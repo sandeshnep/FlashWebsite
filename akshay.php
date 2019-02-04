@@ -7,12 +7,14 @@
 		<link rel="stylesheet" href="css/styles.css">
 	</head>
 	<body class="container">
-		<header>
-	<a href="index.php"> 
+
+
+<header>
 		<h1>Akshay Desai</h1>
-		<img src="/images/akshay.jpg" alt="me">
-	</a>
-</header>		<aside>
+		<img src="/images/akshay.jpg" alt="me" class="elon">
+</header>		
+
+<aside>
 	<ul>
 		<li>CS Student</li>
 		<li>Incoming Software Engineer</li>
